@@ -1,0 +1,1 @@
+savedcmd_Module.symvers :=  /home/gian/Documentos/Unicamp/MC504/Projeto_Kernel_2/linux/scripts/mod/modpost -M          -o Module.symvers -n -T modules.order -i /home/gian/Documentos/Unicamp/MC504/Projeto_Kernel_2/linux/Module.symvers -e 
