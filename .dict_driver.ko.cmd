@@ -1,1 +1,0 @@
-savedcmd_dict_driver.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /home/gian/Documentos/Unicamp/MC504/Projeto_Kernel_2/linux/scripts/module.lds -o dict_driver.ko dict_driver.o dict_driver.mod.o .module-common.o
